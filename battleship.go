@@ -50,5 +50,6 @@ func main() {
 			}
 		}(row)
 	}
+	
 	<-done
 }
